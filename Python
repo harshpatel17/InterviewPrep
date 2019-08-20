@@ -1,0 +1,9 @@
+count() 
+  counts the number of occurences an element appears, list or string 
+  parameter - element 
+  output - number of occurences 
+  0 if no occurences found 
+  
+Add to a string 
+  result = ""
+  result += "h"
