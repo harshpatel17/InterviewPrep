@@ -1,2 +1,11 @@
 contiguous 
   Sharing a border, next to each other 
+
+full binary tree 
+  Every node has 0 or 2 nodes 
+
+complete binary tree 
+  All levels are completely filled except possibly the last level, last level has all the keys left 
+
+perfect binary tree 
+  All internal nodes have 2 children, and all of the leaves are on the same level
