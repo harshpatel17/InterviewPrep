@@ -52,4 +52,20 @@ Insertion Sort
                 j -= 1
         arr[j + 1] = key 
   
+  Binary Search 
+  def bs(nums,l,r,x):
+            if r >= l: 
+
+                mid = l + (r - l)//2
+
+                if nums[mid] == x: 
+                    return mid 
+
+                elif nums[mid] > x: 
+                    return bs(nums, l, mid-1, x) 
+                else: 
+                    return bs(nums, mid + 1, r, x) 
+
+            else: 
+                return -1
  
