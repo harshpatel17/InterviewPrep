@@ -7,3 +7,33 @@ count()
 Add to a string 
   result = ""
   result += "h"
+  
+Split Notation
+  a[start:stop]  # items start through stop-1
+  a[start:]      # items start through the rest of the array
+  a[:stop]       # items from the beginning through stop-1
+  a[:]           # a copy of the whole array
+
+defaultdict 
+  A container in the collections class of python, similiar to a dict but defaultdict already has a default value. We don't have
+  to check for it
+  
+  Ex. from collections import defaultdict
+    d = defaultdict(list)
+    d['python'].append("awesome")
+    d['something-else'].append("not relevant")
+    d['python'].append("language")
+    for i in d.items():
+        print i
+
+    This prints:
+
+    ('python', ['awesome', 'language'])
+    ('something-else', ['not relevant'])
+    
+ deque - collections.deque() 
+   Preferred over list when we need a quicker append and pop from both ends of the list - O(1) 
+    1. append() :- This function is used to insert the value in its argument to the right end of deque.
+    2. appendleft() :- This function is used to insert the value in its argument to the left end of deque.
+    3. pop() :- This function is used to delete an argument from the right end of deque.
+    4. popleft() :- This function is used to delete an argument from the left end of deque.
