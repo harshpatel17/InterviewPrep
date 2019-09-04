@@ -17,6 +17,7 @@
 |   1  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Word%20Ladder.md)                                                           |    Medium    |
 |   1  | [Perfect Squares](https://leetcode.com/problems/perfect-squares)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/PerfectSquares.md)                                                           |    Medium    |
 |   1  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/FindAllDuplicatesInAnArray.md)                                                           |    Medium    |
+|   1  | [Find All Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/FindDuplicateSubtrees.md)                                                           |    Medium    |
 
 
 
