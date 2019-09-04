@@ -15,6 +15,7 @@
 |   1  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/KClosestPointstoOrigin.md)                                                           |    Medium    |
 |   2  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/LongestPalindromicSubstring.md)                                                           |    Medium    |
 |   1  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Word%20Ladder.md)                                                           |    Medium    |
+|   1  | [Perfect Squares](https://leetcode.com/problems/perfect-squares)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/PerfectSquares.md)                                                           |    Medium    |
 
 
 
