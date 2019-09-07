@@ -18,7 +18,7 @@
 |   1  | [Perfect Squares](https://leetcode.com/problems/perfect-squares)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/PerfectSquares.md)                                                           |    Medium    |
 |   2  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/FindAllDuplicatesInAnArray.md)                                                           |    Medium    |
 |   1  | [Find All Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/FindDuplicateSubtrees.md)                                                           |    Medium    |
-
+|   2  | [Flattern Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/)                                                                                         | [Solution](https://github.com/harshpatel17/InterviewPrep/blob/master/Solutions/FlattenBinaryTreeToLinkedList.md)                                                           |    Medium    |
 
 
 
