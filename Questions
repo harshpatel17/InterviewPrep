@@ -1,0 +1,7 @@
+Tell me about an experience about how your collaborate with your colleagus? (Be specific)
+
+What's the difference between Graph and Tree?
+  Tree is special form of graph i.e. minimally connected graph and having only one path between any two vertices.
+  In graph there can be more than one path i.e. graph can have uni-directional or bi-directional paths (edges) between nodes
+  
+Follow-up: write a function to determine whether a Graph is tree or not?
