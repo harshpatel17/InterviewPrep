@@ -40,3 +40,6 @@ defaultdict
     
 s.reverse() 
   reverse the string in place 
+
+list to string 
+  "".join(s)
